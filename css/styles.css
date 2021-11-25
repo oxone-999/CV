@@ -1,0 +1,16 @@
+body{
+  background-color: #C2FFF9;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h1,h3{
+  color: #009DAE;
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-top-width: 5px;
+  border-color:	#000D6B;
+  width: 5%;
+}
